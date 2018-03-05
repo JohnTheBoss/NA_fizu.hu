@@ -1,6 +1,6 @@
 # NetAcademia Webfejlesztő leszek Vue edition - Tanfolyam fájlok
 
-Üdv NetAcademia hallgató! Ebben a repóban megtalálod az órai munkákat. Minden órai anyagot megtalálsz, és a nap végén készítek belőle egy tömörített állományt, így könnyedén letudod tölteni tarts a tanfolyam bármely szakaszán is.
+Üdv NetAcademia hallgató! Ebben a repóban megtalálod az órai munkákat. Minden órai anyagot megtalálsz, és a nap végén készítek belőle egy tömörített állományt, így könnyedén letudod tölteni függetlenül attól hogy, hol tartasz a tanfolyamban.
 
 ## Bootstrap 4
 * **2018.03.05** --- Mi az a HTML, CSS? Mi az hogy reszponzív weboldal és miben van segítségünkre a Bootstrap
